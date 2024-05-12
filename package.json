@@ -63,7 +63,7 @@
     "eslint-plugin-tsdoc": "^0.2.17",
     "fast-deep-equal": "*",
     "jest": "^29.7.0",
-    "rimraf": "^5.0.5",
+    "rimraf": "^5.0.6",
     "ts-jest": "^29.1.2",
     "ts-morph": "^22.0.0",
     "typescript": "^5.4.5"
